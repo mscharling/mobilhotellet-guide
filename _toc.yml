@@ -1,0 +1,43 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption:
+    chapters:
+      - file: velkommen-til-mobilhotellet
+  - caption: Information til brugerne
+    numbered: false
+    chapters:
+      - file: pages/mobilhotellet-til-skoleadmin/mobilhotellet-til-skoleadmin
+        sections:
+          - file: pages/mobilhotellet-til-skoleadmin/foerstegangslogin
+          - file: pages/mobilhotellet-til-skoleadmin/skift-mellem-laerer-og-skoleadmin
+          - file: pages/mobilhotellet-til-skoleadmin/opret-laerer
+          - file: pages/mobilhotellet-til-skoleadmin/opret-klasse
+          - file: pages/mobilhotellet-til-skoleadmin/statistik
+      - file: pages/mobilhotellet-til-laerer/mobilhotellet-til-laerer
+        sections:
+          - file: pages/mobilhotellet-til-laerer/foerstegangslogin
+          - file: pages/mobilhotellet-til-laerer/vaelg-klasse
+          - file: pages/mobilhotellet-til-laerer/ind-og-udtjekkede-elever
+          - file: pages/mobilhotellet-til-laerer/beloenninger
+          - file: pages/mobilhotellet-til-laerer/statistik
+          - file: pages/mobilhotellet-til-laerer/aendre-klassens-navn
+          - file: pages/mobilhotellet-til-v/aendre-elevs-navn-kode-og-klasse
+      - file: pages/mobilhotellet-til-elev/mobilhotellet-til-elev
+        sections:
+          - file: pages/mobilhotellet-til-elev/til-vaerge-foraelder
+          - file: pages/mobilhotellet-til-elev/opret-bruger
+          - file: pages/mobilhotellet-til-elev/tjek-ind
+          - file: pages/mobilhotellet-til-elev/optjente-point
+          - file: pages/mobilhotellet-til-elev/beloenninger
+          - file: pages/mobilhotellet-til-elev/venner
+          - file: pages/mobilhotellet-til-elev/din-profil
+          - file: pages/mobilhotellet-til-elev/dine-indstillinger
+  - caption: Dokumenter
+    chapters:
+      - file: pages/dokumenter/foraelder-vaerge-samtykke
+      - file: pages/dokumenter/laereroprettelse

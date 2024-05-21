@@ -1,3 +1,4 @@
+(til_foraelder)=
 # Indsamling af forælder/værge-samtykke
 
 Inden du indsamler samtykke fra forældre/værger til installering af Mobilhotellet på børnenes mobiltelefoner, så undersøg jeres skoles regler og retningslinjer på dette område. At Mobilhotellet installeres på børnenes mobiltelefoner er i fuld forlængelse af politikken Bring Your Own Device (BYOD).

@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
-
 title: Mobilhotellet
 author: Pausium ApS
 logo: logo-mobilhotellet.png
+copyright: 2024
 
 sphinx:
   config:
@@ -11,10 +11,16 @@ sphinx:
     html_theme: sphinx_book_theme
     html_theme_options:
       use_download_button: false
-      repository_url: https://github.com/sphinx-doc/sphinx
+      repository_url: https://github.com/mscharling/mobilhotellet-guide
       use_issues_button: false
       use_repository_button: false
       use_edit_page_button: false
+    html_static_path: ['_static']
+    html_extra_path: ['./videos']
+    html_css_files:
+      - 'custom.css'
+  extra_extensions:
+    - sphinxcontrib.video
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -32,12 +38,15 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
-  path_to_book: docs  # Optional path to your book, relative to the repository root
-  branch: master  # Which branch of the repository should be used when creating links (optional)
+  url: https://github.com/mscharling/mobilhotellet-guide  # Online location of your book
+  # path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
+  # favicon: "fav.ico"
+  # baseurl: https://mscharling.github.io/mobilhotellet-guide
   use_issues_button: true
   use_repository_button: true
+  # use_download_botton: true

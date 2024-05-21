@@ -1,0 +1,4 @@
+_build/html/_static/videos/introduktion_og_installation.mp4 filter=lfs diff=lfs merge=lfs -text
+_build/html/_static/videos/til_android.mp4 filter=lfs diff=lfs merge=lfs -text
+_static/videos/til_android.mp4 filter=lfs diff=lfs merge=lfs -text
+_static/videos/introduktion_og_installation.mp4 filter=lfs diff=lfs merge=lfs -text

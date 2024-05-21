@@ -2,7 +2,7 @@
 
 Som skoleadmin er det dig, der står for at oprette de lærere, der har klasser, hvor der bruges Mobilhotellet som mobilhåndteringsløsning. Derfor har vi lavet en læreroprettelsesblanket, der kan hjælpe dig med at samle lærernes informationer til at oprette dem som lærere på Mobilhotellet. Du benytte dig af nedenstående blanket lavet med Google Analyse. Du anmoder om adgang til blanketten gennem din mail. Vi anbefaler, at du bruger din arbejdsmail. 
 
-<center> <a href="https://docs.google.com/forms/d/1OxW9e39KSZa1djdyjj9_G9S3QskdCAVN5nNrPNjQapA">Anmod om adgang til blanketten</a>.</center><br>
+<center> <a href="https://docs.google.com/forms/d/1qV60bB8o-IUA2cxOGneYPRTvGy4_YcWQNNGRzbHHdac">Anmod om adgang til blanketten</a>.</center><br>
 
 Når du har fået adgang til blanketten, kopierer du den over på din egen Google-konto. På den måde sikrer du dig, at vi bag Mobilhotellet ikke får de indsamlede oplysninger. Dernæst retter du i blanket-teksten fra **[SKOLE]** til din skoles navn, **[SKOLEADMIN]** til dit navn. 
 

@@ -8,6 +8,15 @@ parts:
   - caption:
     chapters:
       - file: velkommen-til-mobilhotellet
+  - caption: Information om testforløb
+    numbered: false
+    chapters:
+      - file: pages/testforloeb/test-forloeb
+      - file: pages/testforloeb/installation-af-mobilhotellet
+        sections:
+          - file: pages/testforloeb/til-android
+          - file: pages/testforloeb/til-ios
+          - file: pages/testforloeb/gmail
   - caption: Information til brugerne
     numbered: false
     chapters:

@@ -3,8 +3,7 @@
 
 Følg videoguiden nedenfor for at installere Mobilhotellet på elevernes Android telefoner (alt andet en iPhones).
 
-<center><video controls autoplay loop="true" width="300">
-    <source src="../../_static/videos/til_android.mp4">
-</video></center>
+[![](https://img.youtube.com/vi/_VIHivlHGf8/0.jpg)](https://www.youtube.com/watch?v=_VIHivlHGf8)
 
+Du kan også følge linket her: [Installation af Mobilhotellet (til dig med Android telefon)](https://www.youtube.com/watch?v=_VIHivlHGf8)
 

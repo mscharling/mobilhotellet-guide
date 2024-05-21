@@ -6,3 +6,7 @@ I videoen nedenfor giver vi eleverne en kort introduktion til Mobilhotellet og h
 
 Du kan også følge linket her: [Introduktion og installation til test af Mobilhotellet](https://www.youtube.com/watch?v=m9yg9Lsr_q8)
 
+1. Installér Mobilhotellet på elevernes telefon ved at følg videogennemgangen.
+2. Udlevér logins til eleverne.
+3. Lad eleverne logge ind på Mobilhotellet og eventuelt costumize deres profil med Vist navn og Avatar.
+4. Test løs!

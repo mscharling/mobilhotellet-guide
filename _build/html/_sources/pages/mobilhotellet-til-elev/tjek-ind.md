@@ -6,7 +6,6 @@ For at du kan tjekke ind, skal du give lokationstilladelser. Når du er på din 
 
 ```{figure} tjek-ind.png
 ---
-height: 600px
 align: center
 name: tjek-ind
 ---

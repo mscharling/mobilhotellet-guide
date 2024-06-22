@@ -6,7 +6,6 @@ I indstillinger kan du ændre dit viste navn i appen, samt skifte dit password, 
 
 ```{figure} dine-indstillinger.png
 ---
-height: 600px
 align: center
 name: dine-indstillinger
 ---

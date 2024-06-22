@@ -10,7 +10,6 @@ Skifter du til lærerplatformen, har du mulighed for at rykke på elever, der er
 
 ```{figure} opret-klasse.png
 ---
-height: 400px
 align: center
 name: opret-klasse
 ---

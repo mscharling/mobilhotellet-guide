@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 title: Mobilhotellet
 author: Pausium ApS
-logo: logo-mobilhotellet.png
+#logo: logo-mobilhotellet.png
 copyright: 2024
 
 sphinx:
@@ -10,6 +10,9 @@ sphinx:
     language: da
     html_theme: sphinx_book_theme
     html_theme_options:
+      logo:
+        image_light: 'mobilhotellet-logo-sort.png'
+        image_dark: 'mobilhotellet-logo-hvid.png'
       use_download_button: false
       repository_url: https://github.com/mscharling/mobilhotellet-guide
       use_issues_button: false
@@ -21,6 +24,7 @@ sphinx:
       - 'custom.css'
   extra_extensions:
     - sphinxcontrib.video
+    - sphinx_panels
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

@@ -6,7 +6,6 @@ Første gang du logger ind, skal du bruge din mail og den engangskode, som du ha
 
 ```{figure} foerstegangslogin.png
 ---
-height: 400px
 align: center
 name: foerstegangslogin
 ---

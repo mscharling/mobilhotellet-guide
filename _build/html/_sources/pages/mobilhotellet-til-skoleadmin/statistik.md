@@ -8,7 +8,6 @@ Du som skoleadmin kan bruge denne statistik til at snakke med lærerne omkring, 
 
 ```{figure} statistik-til-skoleadmin.png
 ---
-height: 400px
 align: center
 name: statistik-til-skoleadmin
 ---

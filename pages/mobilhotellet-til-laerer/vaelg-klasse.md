@@ -6,7 +6,6 @@ Når du logger ind, sendes du til en side, hvor du kan vælge den klasse, som du
 
 ```{figure} vaelg-klasse.png
 ---
-height: 400px
 align: center
 name: vaelg-klasse
 ---

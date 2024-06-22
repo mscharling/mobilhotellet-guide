@@ -11,7 +11,6 @@ Du kan rapportere en belønning, hvis du finder den upassende eller på anden m�
 
 ```{figure} beloenninger.png
 ---
-height: 600px
 align: center
 name: beloenninger
 ---

@@ -5,7 +5,6 @@ Trykker du på dit navn i øverste bar, vil du have muligheden for at "Skift til
 
 ```{figure} skift-mellem-laerer-og-admin.png
 ---
-height: 400px
 align: center
 name: skift-mellem-laerer-og-admin
 ---

@@ -7,7 +7,6 @@ Som skoleadmin er det din opgave at oprette lÃ¦rere tilknyttet de klasser, der Ã
 
 ```{figure} opret-laerer.png
 ---
-height: 400px
 align: center
 name: opret-laerer
 ---

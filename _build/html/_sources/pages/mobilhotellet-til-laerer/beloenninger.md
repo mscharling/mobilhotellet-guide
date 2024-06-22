@@ -12,7 +12,6 @@ Det samlede antal point for klassen falder svarende til belønningens pointkrav,
 
 ```{figure} beloenninger.png
 ---
-height: 400px
 align: center
 name: beloenninger
 ---

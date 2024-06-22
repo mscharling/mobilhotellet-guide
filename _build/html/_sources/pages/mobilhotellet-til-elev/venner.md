@@ -8,7 +8,6 @@ Du kan rapportere en klassekammerat, hvis du finder klassekammeratens avatar ell
 
 ```{figure} venner.png
 ---
-height: 600px
 align: center
 name: venner
 ---

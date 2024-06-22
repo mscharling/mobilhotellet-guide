@@ -8,7 +8,6 @@ Som skoleadmin har du mulighed for at skifte mellem at se platformen som lærer 
 
 ```{figure} foerstegangslogin.png
 ---
-height: 400px
 align: center
 name: foerstegangslogin
 ---

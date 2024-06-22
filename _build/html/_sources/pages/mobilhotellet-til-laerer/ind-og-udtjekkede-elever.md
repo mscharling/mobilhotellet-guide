@@ -7,7 +7,6 @@ Når en elev er tjekket ind på Mobilhotellet, så vil disse kunne ses i venstre
 
 ```{figure} indtjekkede-elever.png
 ---
-height: 400px
 align: center
 name: indtjekkede-elever
 ---
@@ -28,7 +27,6 @@ Eleverne kan sagtens slukke for skærmen på deres mobiltelefon, og stadig være
 
 ```{figure} udtjekkede-elever.png
 ---
-height: 400px
 align: center
 name: udtjekkede-elever
 ---

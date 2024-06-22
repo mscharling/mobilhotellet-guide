@@ -8,6 +8,10 @@ parts:
   - caption:
     chapters:
       - file: velkommen-til-mobilhotellet
+  - caption: Inspiration
+    numbered: false
+    chapters:
+      - file: pages/inspiration/beloenningkartotek
   - caption: Information om testforløb
     numbered: false
     chapters:
@@ -17,7 +21,7 @@ parts:
           - file: pages/testforloeb/til-android
           - file: pages/testforloeb/til-ios
           - file: pages/testforloeb/gmail
-  - caption: Information til brugerne
+  - caption: Userguides
     numbered: false
     chapters:
       - file: pages/mobilhotellet-til-skoleadmin/mobilhotellet-til-skoleadmin

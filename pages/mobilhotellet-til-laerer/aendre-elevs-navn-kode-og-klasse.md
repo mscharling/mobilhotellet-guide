@@ -10,7 +10,6 @@ Skifter en elev klasse, er det muligt at ændre hvilken klasse, eleven er tilkny
 
 ```{figure} aendre-elevs-navn-kode-og-klasse.png
 ---
-height: 400px
 align: center
 name: aendre-elevs-navn-kode-og-klasse
 ---

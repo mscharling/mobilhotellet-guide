@@ -6,7 +6,6 @@ Når du første gang åbner Mobilhotellet, kan du logge ind, hvis du allerede ha
 
 ```{figure} opret-bruger.png
 ---
-width: 800px
 align: center
 name: opret-bruger
 ---

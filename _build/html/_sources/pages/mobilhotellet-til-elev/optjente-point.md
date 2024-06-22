@@ -8,7 +8,6 @@ Det er vigtigt, at du ikke lukker eller minimerer Mobilhotellet, når du er tjek
 
 ```{figure} optjente-point.png
 ---
-height: 600px
 align: center
 name: optjente-point
 ---
